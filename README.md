@@ -31,6 +31,6 @@
             <li><h1>Take a look at the source code if you want, I don't really care.</h1></li>
             <li><h1>This is gonna be a shit tos anyways lol.</h1></li>
             </ul>
-            <a href="https://github.com/Alriceee/eee-eeee/edit/main/README.md" target="_blank">Heres the link for the source code</a>
+            <a href="https://github.com/Alriceee/eee-eeee" target="_blank">Heres the link for the source code</a>
             
             ```
