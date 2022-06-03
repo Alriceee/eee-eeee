@@ -33,6 +33,7 @@
             <li><h1>Take a look at the source code if you want, I don't really care.</h1></li>
             <li><h1>This is gonna be a shit tos anyways lol.</h1></li>
             <li><h2>By the way, if your looking for a fucking tos. there isn't one.</h2></li>
+            <li><h2>Also, there isn't a privacy policy, stop looking</h2></li>
             </ul>
             <a href="https://github.com/Alriceee/eee-eeee" target="_blank">Heres the link for the source code</a>
             
